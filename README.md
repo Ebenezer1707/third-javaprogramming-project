@@ -8,8 +8,9 @@ This project demonstrates the use of Java for creating interactive GUI applicati
 
 ## Screenshot
 
-*(Add a screenshot of your application here)*
-![Screenshot of Currency Converter](screenshot.png)
+<img width="1918" height="1017" alt="Screenshot 2025-10-20 202851" src="https://github.com/user-attachments/assets/5ea1cdbf-558a-45ee-b1de-d14abc6b43d0" />
+
+
 
 ---
 
